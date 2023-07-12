@@ -94,7 +94,10 @@ html{
     letter-spacing: 0.3rem;
     text-transform: uppercase;
     position: relative;
-    transition: color.2s;
+    transition: color .2s;
+}
+.navbar-link:hover{
+    color: #fff;
 }
 .navbar-link::before{
     content: "";
