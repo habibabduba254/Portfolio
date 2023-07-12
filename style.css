@@ -28,10 +28,9 @@ html{
      url(/images/bg.jpg) center
     no-repeat;
     background-size: cover;
-    display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    
+
 
 }
 .section-1-heading{
