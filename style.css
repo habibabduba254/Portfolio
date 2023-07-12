@@ -13,6 +13,11 @@ html{
     font-size: 62.5%;
 
 }
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* end of reset and common styles */
 /*section 1*/
 .section-1{
