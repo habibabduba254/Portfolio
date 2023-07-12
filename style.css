@@ -30,7 +30,7 @@ html{
 
 }
 .section-1-heading{
-    font-size: 6 rem;
+    font-size: 6rem;
     font-weight: 700;
     color: white;
     background-color: #e41c6f;
@@ -38,6 +38,19 @@ html{
     margin-bottom: 5rem;
     text-transform: uppercase;
     letter-spacing: 1rem;
+    border-bottom: .3rem solid#fff;
+    text-shadow: 0.2rem 0.2rem 1rem #555;
+    transform: skew(-10deg);
 
+}
+.person-img{
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 0.7rem dotted #e41c6f;
+    background-color: rgba(255,255,255,0.7);
+    padding: 0.5rem;
+    opacity:0.9;
 }
 /*end of section 1*/
