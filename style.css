@@ -144,5 +144,12 @@ html{
     margin: 1.5rem 0;
     border-radius: .3rem;
     box-shadow: .2rem .2rem 1rem #555;
+    position: relative;
+}
+.progress-text{
+    position: absolute;
+    left: 1rem;
+    font-size: 1.5rem;
+    color:#fff;
 }
 /*End of section 2*/
