@@ -157,4 +157,10 @@ html{
     font-size: 1.8rem;
     font-weight: 700;
 }
+.progress-percent{
+    width: 90%;
+    height: 100%;
+    background-color: #e41c6f;
+    border-radius: .3rem;
+}
 /*End of section 2*/
