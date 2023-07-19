@@ -127,6 +127,12 @@ html{
     font-size: 5rem;
     color:#333;
     text-transform: uppercase;
-    letter-spacing: .5rem;
+    letter-spacing: 0.5rem;
+    margin-bottom: 15rem;
+    border-bottom: .3rem solid #333;
+    text-shadow: 0.2rem 0.2rem 0.5rem #555;
+}
+.progress-bars-wrapper{
+    margin-bottom: 10rem;
 }
 /*End of section 2*/
