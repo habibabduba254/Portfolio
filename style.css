@@ -126,5 +126,7 @@ html{
 .section-2-heading{
     font-size: 5rem;
     color:#333;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
 }
 /*End of section 2*/
