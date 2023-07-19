@@ -152,4 +152,9 @@ html{
     font-size: 1.5rem;
     color:#fff;
 }
+.progress-text span{
+    margin: 0.5rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+}
 /*End of section 2*/
