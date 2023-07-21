@@ -208,5 +208,6 @@ html{
 }
 .projects-wrapper{
     width:80%;
+    flex-wrap: wrap;
 }
 /*end of section 3*/
