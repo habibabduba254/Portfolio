@@ -210,4 +210,13 @@ html{
     width:80%;
     flex-wrap: wrap;
 }
+.project{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    background-color: #fff;
+    box-shadow: .3rem .3rem .5rem #777;
+}
 /*end of section 3*/
