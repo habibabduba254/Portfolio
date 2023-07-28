@@ -218,5 +218,8 @@ html{
     margin: 1rem;
     background-color: #fff;
     box-shadow: .3rem .3rem .5rem #777;
+    position: relative;
+    overflow: hidden;
+    transition: box-shadow 0.5s;
 }
 /*end of section 3*/
