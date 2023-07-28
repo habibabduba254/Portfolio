@@ -362,4 +362,11 @@ html{
         max-height: 15rem;
         max-width: 100%;
       }
+      .contact-form .contact-form-btn{
+        background-color: #e41c6f;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1rem;
+  cursor: pointer;
+      }
 
