@@ -262,3 +262,7 @@ html{
         flex-direction: column;
         align-items: center;
       }
+      .projects-wrapper{
+        width: 80%;
+        flex-wrap: wrap;
+      }
