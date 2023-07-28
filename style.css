@@ -347,4 +347,14 @@ html{
         width: 50rem;
         flex-direction: column;
       }
+      .contact-form input,
+      .contact-form textarea {
+        width: 100%;
+        padding: 0.5rem;
+        margin: 0.5rem 0;
+        background-color: #eef;
+        font-size: 1.5rem;
+        border: 0.2rem solid #e41c6f;
+        color: #555;
+      }
 
