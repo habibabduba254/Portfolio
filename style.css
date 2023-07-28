@@ -299,4 +299,7 @@ html{
   color: #333;
   text-transform: capitalize;
       }
-      
+      .project-technologies {
+        font-size: 1.8rem;
+        color: #e41c6f;
+      }
