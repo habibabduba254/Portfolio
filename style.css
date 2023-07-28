@@ -337,4 +337,10 @@ html{
   align-items: center;
   justify-content: space-evenly;
       }
-      
+      .section-4-heading {
+        color: #fff;
+        box-shadow: none;
+        border-color: #fff;
+        margin-bottom: 5rem;
+      }
+
