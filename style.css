@@ -278,3 +278,6 @@ html{
   overflow: hidden;
   transition: box-shadow 0.5s;
       }
+      .project:hover { 
+        box-shadow: 1rem 1rem 1rem #777;
+      }
