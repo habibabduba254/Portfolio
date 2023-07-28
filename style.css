@@ -177,14 +177,14 @@ html{
 
 .service:first-child,
 .service:last-child{
- align-self: flex-start;
+ align-self: start;
 }
 
 .service i{
     font-size: 10rem;
     color:#888;
     margin-bottom: 2rem;
-    text-shadow: .1rem .1rem .5rem #555;
+    text-shadow: 0.1rem 0.1rem 0.5rem 0.5rem #555;
 }
 .service h2{
     font-size: 2rem;
