@@ -263,4 +263,8 @@ html{
   bottom: -5rem;
   transition: bottom 0.3s;
 }
+.project:hover .project-link{
+    bottom: 5rem;
+  transition: bottom 0.3s 0.3s;
+}
 /*end of section 3*/
