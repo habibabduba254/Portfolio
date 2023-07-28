@@ -377,3 +377,6 @@ html{
     background-color: #222;
     flex-direction: column;
 }
+.social-media{
+    margin-bottom: 5rem; 
+}
