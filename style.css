@@ -244,4 +244,8 @@ html{
     font-size: 1.8rem;
   color: #e41c6f;
 }
+.project-img {
+    width: 40rem;
+    transition: opacity 0.3s;
+}
 /*end of section 3*/
