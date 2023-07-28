@@ -233,4 +233,11 @@ html{
     top: -10rem;
     z-index: 10;
     transition: top 0.3s;
+}
+.project-name{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #333;
+    text-transform: capitalize;
+}
 /*end of section 3*/
