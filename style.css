@@ -266,3 +266,15 @@ html{
         width: 80%;
         flex-wrap: wrap;
       }
+      .project{
+        display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  margin: 1rem;
+  box-shadow: 0.3rem 0.3rem 0.5rem #777;
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow 0.5s;
+      }
